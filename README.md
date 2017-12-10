@@ -1,2 +1,2 @@
 # hello-world
-Repository for completing the tutorial
+I'm completing this tutorial as part of class IT-1025!
